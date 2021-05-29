@@ -19,7 +19,7 @@
     "rxjs": "^6.5.3",
     "symbol-sdk": "^0.18.0",
     "text-encoding": "^0.7.0",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/jest": "^25.1.3",
